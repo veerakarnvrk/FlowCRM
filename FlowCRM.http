@@ -1,0 +1,6 @@
+@FlowCRM_HostAddress = http://localhost:5213
+
+GET {{FlowCRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
