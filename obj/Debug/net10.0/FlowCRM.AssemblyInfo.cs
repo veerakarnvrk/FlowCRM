@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowCRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+425d3d1b9d7f2ec2780500b00d97d17c56361066")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowCRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowCRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
